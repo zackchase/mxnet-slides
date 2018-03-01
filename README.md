@@ -21,7 +21,7 @@ ICML2017 has 104 slides, for a 2-hour tutorial, covering these topics:
 
 From https://2017.icml.cc/Conferences/2017/Schedule?showEvent=894  (Aug 6th, 2017)
 
-There appears to be no video available, currently.
+Video available [here](https://vimeo.com/240775436)
 
 ### KDD2017
 
@@ -49,4 +49,4 @@ KDD2017 is 147 slides, for a 3-part, 5 hour tutorial.
  
 From http://www.kdd.org/kdd2017/  (Tue, Aug 15 2017)
 
-There appears to be no video available, currently.
+Videos available here: [part 1](https://www.youtube.com/watch?v=rLT0woA7rWU), [part 2](https://www.youtube.com/watch?v=u5C2Ibwvi7E)
